@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1007403b-9190-4c0c-ba0f-e06b269631ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/do_z_stacji/do_stacji.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/do_z_stacji/pociag_do_stacji.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/do_z_stacji/pociag_konczy_bieg.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/do_z_stacji/pociag_ze_stacji.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/do_z_stacji/przez_stacje.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/do_z_stacji/ze stacji.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/czwartego.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/czwartym.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/drugiego.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/drugim.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/odjedzie_z_toru.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/osmego.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/piatego.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/pierwszego.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/pierwszym.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/przy_peronie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/siodmego.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/szostego.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/trzeciego.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/perony_i_tory/trzecim.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/aleksandrow_kujawski.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/augustow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/babiak.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/babimost.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bedzin_miasto.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bialogard.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bialystok.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bialystok_zielone_wzgorza.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bielskobiala_glowna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bochnia.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bohumin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bohumin_vrbice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bolesawiec.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/brzeg.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/brzesko_okocim.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bydgoszcz_glowna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bydgoszcz_lesna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/bydgoszcz_wschod.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/chabowka_stadion.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/chalupki.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/chalupy.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/chelm.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/chelm_miasto.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/chojnow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/chorzow_batory.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/choszczno.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/ciechanow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/czechowice_dziedzice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/czestochowa.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/czestochowa_stradom.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/czyzew.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/dabrowa_bialostocka.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/dabrowa_gornicza.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/debica.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/deblin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/dobiegniew.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/dzialdowo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/elk.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/frankfurt_nad_odra.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/gdansk_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/gdansk_oliwa.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/gdansk_wrzeszcz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/gdynia_glowna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/gliwice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/gniezno.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/goleniow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/goleszow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/grajewo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/grodzisk_mazowiecki.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/gryfino.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/hel.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/hrubieszow_miasto.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/ilawa_glowna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/inowroclaw_rabinek.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/izbica.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/jaroslaw.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/jastarnia.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/jastrowie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/jelenia_gora_cieplice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/jurata.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kalisz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kalisz_pomorski.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kalwaria_zebrzydowska_lanckorona.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/katowice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kedzerzyn_kozle.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kolbuszowa.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kolo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kolobrzeg.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/koluszki.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/konin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kostrzyn.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/koszalin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kowalewo_pomorskie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/krakow_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/krakow_plaszow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/krasnik.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/krasnystaw_miasto.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/krotoszyn.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/krzyz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kutno.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kuzna_raciborska.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/kuznica.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lancut.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lapy.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lask.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lebork.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/legionowo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/legnica.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lista_plikow.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lochow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lodz_chojny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lodz_fabryczna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lodz_retkinia.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lodz_widzew.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lowicz_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lublin_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lublin_zachodni.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/lubliniec.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/mackowo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/makow_podhalanski.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/malbork.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/malkinia.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/miechow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/miedzyzdroje.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/milicz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/mlawa.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/mogilno.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/monki.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/myszkow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/naklo_nad_notecia.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/nasielsk.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/nowa_deba.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/nowy_dwor_mazowiecki.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/nowy_targ.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/olawa.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/olesnica_rataje.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/olsztyn_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/olsztyn_zachodni.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/olsztynek.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/opalenica.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/opoczno_poludnie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/opole_glowne.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/opole_wschodnie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/osowiec.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/ostroda.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/ostrow_wielkopolski.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/oswiecim.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/otwock.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/pabianice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/petrovice_u_karvine.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/piechowice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/piensk.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/pila_glowna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/pilawa.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/piotrkow_kujawski.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/piotrkow_trybunalski.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/poronin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/poznan_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/prabuty.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/przczyna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/przemysl_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/przemysl_zasanie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/przeworsk.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/puck.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/pulawy_miasto.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/raciborz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/radomsko.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/radymno.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/recz_pomorski.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/rejowiec.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/ropczyce.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/rumia.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/rybnik.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/rzepin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/rzeszow_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/rzeszow_zachodni.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sedzislaw.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sedziszow_malopolski.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sieradz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/skierniewice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/skoczow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/slawno.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/slupca.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/slupsk.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sobolew.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sochaczew.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sokolka.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/solec_kujawski.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sopot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sosnowiec_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sosnowiec_poludniowy.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sroda_slaska.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/stalowa_wola_charzewice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/stargard.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/strzelce_opolskie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sucha_beskidzka_zamek.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/sulechow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/suwalki.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/swarzedz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/swidnik_miasto.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/swiebodzice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/swiebodzin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/swinoujscie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/szamotuly.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/szczecin_dabie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/szczecin_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/szczecinek.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/szepietowo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/szkarska_poreba_srednia.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/szklarska_poreba_dolna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/szklarska_poreba_gorna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/tarnobrzeg.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/tarnow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/tczew.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/tluszcz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/tomaszow_mazowiecki.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/torun_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/torun_miasto.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/torun_wschodni.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/trakiszki.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/trawniki.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/tuczno_krajenskie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/twardogora.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/tychy.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/ustron_polana.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/ustron_zdroj.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/ustronie_morskie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wabrzezno.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/walbrzych_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/walbrzych_miasto.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/walcz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/warszawa_centralna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/warszawa_wschodnia.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/warszawa_zachodnia.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wegliniec.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wejherowo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/werbkowice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wisla_uzdrowisko.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wladyslawowo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wloclawek.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wloszczowa_polnoc.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wodzislaw_slaski.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wolomin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wroclaw_glowny.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wroclaw_lesnica.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wroclaw_mikolajow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wroclaw_nadodrze.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wronki.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wrzesnia.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wyrzysk_osiek.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/wysoka_kamienska.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zabrze.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zaklikow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zakopane.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zamosc.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zamosc_starowka.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zamosc_wschod.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zawada.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zawiercie.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zbaszyn.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zbaszynek.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zdunska_wola.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zebrzydowice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zgorzelec.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zgorzelec_miasto.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zielona_gora_glowna.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zychlin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stacje/zyrardow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3CntuHKASDg0KNFvD0ZZzPtqB4l" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/s34754/PycharmProjects/PythonProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s34754\PycharmProjects\PythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\s34754\PycharmProjects\PythonProject\audio" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1007403b-9190-4c0c-ba0f-e06b269631ae" name="Changes" comment="" />
+      <created>1777033385139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777033385139</updated>
+      <workItem from="1777033394730" duration="3904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1777037269578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
