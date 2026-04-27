@@ -1,4 +1,5 @@
 import os
+import pygame
 
 
 def usun_polskie_znaki(tekst):
@@ -16,14 +17,12 @@ def get_wav_files(path: str):
             if file.lower().endswith('.wav'):
                 file_name_only = os.path.splitext(file)[0]
                 clean_key = usun_polskie_znaki(file_name_only)
-
                 if clean_key in wav_map:
                     print(f"Uwaga: Klucz '{clean_key}' już istnieje! (Plik: {file})")
-
                 wav_map[clean_key] = os.path.join(root, file)
     return wav_map
 
-
+pygame.mixer.init()
 input_text = input("Podaj tekst ogłoszenia: ")
 audio_map = get_wav_files("./audio")
 
@@ -36,7 +35,6 @@ wav_files_in_order = []
 i = 0
 while(i<len(words)):
     found = False
-
     for length in [3,2,1]:
         if i+ length <= len(words):
             phrase = "_".join(words[i:i + length])
@@ -45,9 +43,21 @@ while(i<len(words)):
                 i += length
                 found = True
                 break
+    if not found:
+        print(f"Brak nagrania dla słowa: {words[i]}")
+        i += 1
 
 
     if not found: i+=1
 
 
-print(wav_files_in_order)
+for file in wav_files_in_order:
+    try:
+        print("playing file: ", file)
+        sound = pygame.mixer.Sound(file)
+        channel = sound.play()
+
+        while channel.get_busy():
+            pygame.time.Clock().tick(10)
+    except Exception as e:
+        print(f"Błąd przy pliku {file}: {e}")
